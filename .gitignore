@@ -1,2 +1,3 @@
-mnist-dataset/*
-!mnist-dataset/.gitkeep
+mnist-dataset/
+.ipynb_checkpoints/neural_network-checkpoint.ipynb
+.ipynb_checkpoints/test_network-checkpoint.ipynb
